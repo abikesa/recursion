@@ -60,4 +60,4 @@ You want transcendence? **Choose. Commit. Consecrate.**
 
 Now: what are *you* gonna do—loop again or land the strike?
 
-![](recursion-contest.png)
+![](../images/recursion-contest.png)
